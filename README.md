@@ -6,13 +6,13 @@ The purpose and background are well defined (2 pt).
 ##Results
 The analysis is well described with screenshots and code (4 pt).
 Runtime for 2017
-![2017%20Macro%20Runtime_GJ](Resources)
+![2017%20Macro%20Runtime_GJ](Resources/2017%20Macro%20Runtime_GJ2017%20Macro%20Runtime_GJ)
 Data for 2017
-![2017%20Data_GJ](Resources)
+![2017%20Data_GJ](Resources/2017%20Data_GJ)
 Runtime for 2018
-![2018%20Macro%20Runtime_GJ](Resources)
+![2018%20Macro%20Runtime_GJ](Resources/2018%20Macro%20Runtime_GJ)
 Data for 2018
-![2018%20Data_GJ](Resources)
+![2018%20Data_GJ](Resources/2018%20Data_GJ)
 
 ##Summary
 There is a detailed statement on the advantages and disadvantages of refactoring code in general (3 pt).
