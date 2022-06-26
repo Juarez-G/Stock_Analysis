@@ -1,11 +1,11 @@
 # Stock_Analysis
 
 ### Overview of Project
-   Steve loves the workbook that was prepared for him. At the click of a button, he can analyze an entire dataset and clear it to restart. Now, to do a little more          research for his parents, he wants to expand the dataset to include the entire stock market over the last few years. Although the code works well for a dozen stocks,    it might not work as well for thousands of stocks. And if it does, it may take a long time to execute.  There needs to be a refactor of the original code to enhance      the speed at which the data is run for more efficiency.
+   Steve loves the workbook that was prepared for him. At the click of a button, he can analyze an entire dataset and clear it to restart. Now, to do a little more          research for his parents, he wants to expand the dataset to include the entire stock market over the last few years. Although the code works well for a dozen stocks,it might not work as well for thousands of stocks. And if it does, it may take a long time to execute.  There needs to be a refactor of the original code to enhance the speed at which the data is run for more efficiency.
 
 ### Results
 
-  The analysis is well described with screenshots and code (4 pt).
+ After running the refactored script, we see that it was faster for both years being run below.  Updated script included formatting to show were gains/losses were made for Steve to quickly see what needs to be addressed from an investing standpoint.  Additionally, the ease of using a button to reset and clear data and change years makes this a quick tool to view different years at different times. 
 
 Runtime for 2017
 
