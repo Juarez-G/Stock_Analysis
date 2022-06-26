@@ -21,7 +21,7 @@ Runtime for 2018
 
 Data for 2018
 
-   ![2018%20Data_GJ.png](Resources/2018%20Data_GJ.png)
+   ![2018%20Data%20_GJ.png](Resources/2018%20Data%20_GJ.png)
 
 ### Summary
 
