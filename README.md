@@ -25,5 +25,10 @@ Data for 2018
 
 ### Summary
 
-  There is a detailed statement on the advantages and disadvantages of refactoring code in general (3 pt).
-  There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script (3 pt).
+  Advantages / Disadvantages of refactoring code in general
+  1 - Refactoring gives you a place to start and apply to your data set or problem / This can cause and issue because you have to make changes in potential variables         and have to change it in numerous places
+  2 - Refactoring can help expediate a project and meet deadlines / Your code is not unique and can cause more debugging since it's being applied to a new data set 
+  
+  Advantages / Disadvantages of refactoring code for this VBA script
+  1 - Original script was a quick script to loop through all the data as it was originally just the 11 stocks without having to worry about more years being added /       Original script was limited by not having a way to input the year you wanted to pull and having to pull it year by year.
+  2 - Refactoring this made this specific process faster for the client and he can add tabs in the same format to the workbook and select years as needed / This VBA         script would stil need to be updated if more stocks being tracked are added there by having to update the tickerIndex.
