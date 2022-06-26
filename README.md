@@ -1,7 +1,7 @@
 # Stock_Analysis
 
 ### Overview of Project
-  The purpose and background are well defined (2 pt).
+   Steve loves the workbook that was prepared for him. At the click of a button, he can analyze an entire dataset and clear it to restart. Now, to do a little more          research for his parents, he wants to expand the dataset to include the entire stock market over the last few years. Although the code works well for a dozen stocks,    it might not work as well for thousands of stocks. And if it does, it may take a long time to execute.  There needs to be a refactor of the original code to enhance      the speed at which the data is run for more efficiency.
 
 ### Results
 
